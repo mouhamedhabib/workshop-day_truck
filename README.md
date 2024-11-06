@@ -31,14 +31,3 @@ GitFlow defines five primary branches:
   ```bash
   git checkout develop
   git checkout -b feature/<feature-name>
-
-React
-
-Reply
-
-
-
-
-
-
-
